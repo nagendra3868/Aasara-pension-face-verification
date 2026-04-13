@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Aasara Pension Face Verification
+# Aasara Pension:Smart Beneficiary Verification System
 
 A smart beneficiary verification system for **Aasara Pension** that uses **face recognition and liveness detection** to help elderly and disabled citizens complete pension verification easily.
 
