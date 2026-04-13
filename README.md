@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aasara Pension Face Verification
 
 A smart beneficiary verification system for **Aasara Pension** that uses **face recognition and liveness detection** to help elderly and disabled citizens complete pension verification easily.
@@ -126,3 +127,18 @@ B.Tech CSE Mini Project
 ## 📜 License
 
 This project is developed for **academic and learning purposes**.
+=======
+# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+
+[Edit on StackBlitz ⚡️](https://sli.dev/new)
+
+To start the slide show:
+
+- `npm install`
+- `npm run dev`
+- visit http://localhost:3030
+
+Edit the [slides.md](./slides.md) to see the changes.
+
+Learn more about Slidev on [documentations](https://sli.dev/).
+>>>>>>> dabb23c (Initial commit - Aasara Pension Face Verification System)
